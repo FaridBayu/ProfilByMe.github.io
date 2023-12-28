@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .welcome-section {
+    background-image: url('crimg.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: left;
+    padding: 100px 20px;
+    position: relative;
+  }
+  
+  .welcome-text {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    display: inline-block;
+    max-width: 200pxpx;
+  }
+  
+  .welcome-btn {
+    margin-top: 20px;
+  }
+  
+  .aboutme {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .footer {
+    color: white;
+    background-color: #000666;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px; 
+    bottom: 0; 
+    width: 100%; 
+  }
+  
